@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JumpStep
+  - PlayerDetectrange
+  - PlayerBullet
+  - Enemy
+  - DeathZone
+  - MainCanvas
+  - PlayerA
+  - PlayerB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CaptureArea
+  - MapDetect
+  - 
+  - AI
+  - Map
+  - LocalPlayer
+  - OtherPlayer
+  - LocalBullet
+  - OtherBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LockOnUI
+    uniqueID: 2275417947
+    locked: 0
